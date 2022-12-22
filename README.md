@@ -1,6 +1,6 @@
 # Minecraft Custom Items
 
-My collection of Minecraft custom items. __None__ require mods!
+My collection of Minecraft custom items. **None** require mods!
 
 # Installation
 
