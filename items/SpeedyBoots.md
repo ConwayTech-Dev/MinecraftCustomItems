@@ -1,0 +1,3 @@
+<code>/give @p leather_boots{display:{color:2223647,Name:'[{"text":"Speedy Boots","italic":false}]',Lore:['[{"text":"\\"How to B-hop EZ - Totally Legit\\"","italic":false}]','[{"text":"Self-explanatory. :D","italic":false}]']},AttributeModifiers:[{AttributeName:"generic.movement_speed",Amount:0.75,Slot:feet,Name:"generic.movement_speed",UUID:[I;-1221125,8724,213847,-17448]}]} 1<code>
+
+- Item Name: "Speedy Boots"
