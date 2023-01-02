@@ -1,0 +1,1 @@
+<code>/give @p stick{Unbreakable:1,display:{Name:'[{"text":"Super Insane Knockback Stick","italic":false}]',Lore:['[{"text":"The third level of a series of","italic":false}]','[{"text":"\\"knocky\\" items. Be careful.","italic":false}]']},Enchantments:[{id:knockback,lvl:10}],HideFlags:4} 1</code>
